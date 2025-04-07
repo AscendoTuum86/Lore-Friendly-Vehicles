@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_SADLER6</lockHash>
+			<modelNameHash>Sadler6</modelNameHash>
+			<cost value="100"/>
+			<textLabel>SADLER6</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_VEH_SADLER7</lockHash>
+			<modelNameHash>Sadler7</modelNameHash>
+			<cost value="100"/>
+			<textLabel>SADLER7</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+		<Item>
+			<lockHash>CU_VEH_SADLER8</lockHash>
+			<modelNameHash>Sadler8</modelNameHash>
+			<cost value="100"/>
+			<textLabel>SADLER8</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

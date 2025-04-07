@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>ratchet</modelName>
+      <colors>
+	  	<Item>
+          <indices content="char_array">
+            5
+            0
+            0
+            156
+          </indices>
+		  <liveries>
+            <liveries>
+            <Item value="false"/>
+            <Item value="true"/>
+          </liveries>
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88
+            0
+            91
+            156
+          </indices>
+		  <liveries>
+            <liveries>
+            <Item value="true"/>
+            <Item value="false"/>
+          </liveries>
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50"/>
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="645"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

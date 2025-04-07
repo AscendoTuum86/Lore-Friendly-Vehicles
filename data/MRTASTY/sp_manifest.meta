@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CScenarioPointManifest>
+  <VersionNumber value="0" />
+  <RegionDefs>
+    <Item type="CScenarioPointRegionDef">
+      <Name>dlc_mrtasty:/%PLATFORM%/levels/gta5/scenario/mrtasty</Name>
+      <AABB>
+        <min x="871.3676" y="-756.9528" z="6.13895" />
+        <max x="1283.879" y="-359.6831" z="107.76353" />
+      </AABB>
+    </Item>
+    <Item type="CScenarioPointRegionDef">
+      <Name>dlc_mrtasty:/%PLATFORM%/levels/gta5/scenario/mrtasty2</Name>
+      <AABB>
+        <min x="-1366.737" y="-1670.3" z="2.03074" />
+        <max x="-1033.078" y="-1157.643" z="104.380838" />
+      </AABB>
+    </Item>
+    <Item type="CScenarioPointRegionDef">
+      <Name>dlc_mrtasty:/%PLATFORM%/levels/gta5/scenario/mrtasty3</Name>
+      <AABB>
+        <min x="-1023.226" y="-149.4288" z="16.88688" />
+        <max x="-481.8487" y="99.19468" z="94.74469" />
+      </AABB>
+    </Item>
+    <Item type="CScenarioPointRegionDef">
+      <Name>dlc_mrtasty:/%PLATFORM%/levels/gta5/scenario/mrtasty4</Name>
+      <AABB>
+        <min x="-1167.311" y="243.5134" z="5.06786" />
+        <max x="-814.2989" y="873.409" z="302.1277" />
+      </AABB>
+    </Item>
+  </RegionDefs>
+  <Groups />
+  <InteriorNames />
+</CScenarioPointManifest>

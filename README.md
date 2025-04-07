@@ -1,6 +1,6 @@
 # VehiclePack
 
-Vehicle Pack template for FiveM
+Vehicle Pack with Lore Friendly options for FiveM
 
 VehiclePack makes it easy to combine all of your add-on vehicles into one huge pack for use with FiveM and allows server owners and devs to manage them all, rather than dealing with multiple separate resources.
 
